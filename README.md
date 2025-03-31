@@ -35,7 +35,6 @@ Follow these steps to run the application:
    ```bash
    dotnet restore
    ```
-   ```
 5. **Run the Application:**
    ```bash
    dotnet run
